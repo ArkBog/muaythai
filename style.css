@@ -1,0 +1,194 @@
+body
+{
+	background-color: #171719;
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+	margin: 0;
+	overflow-y: hidden;
+}
+
+a
+{
+	text-decoration: none;
+	color: white !important;
+}
+
+.logo
+{
+	font-size: 65px;
+}
+
+.logotxt
+{
+	font-weight: 700;
+	display: inline-block;
+	font-size: 65px;
+}
+
+.borderc
+{
+	border-right: 2px solid #171719;
+}
+
+.bordercf
+{
+	border-right: 2px solid #171719;
+	border-left: 2px solid #171719;
+}
+.scrollup
+{
+	width: 64px;
+	height: 64px;
+	text-decoration: none;
+	background: url("img/up.png") no-repeat 0px 0px;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+	display: none;
+}
+
+.secondary
+{
+	background-color: #060608;
+}
+
+
+.option:hover
+{
+	background-color: #171719;
+}
+
+.txtright
+{
+	text-align: right; !important
+}
+
+.background
+{
+	background-color: #060608;
+}
+
+.txtjustify
+{
+	text-align: justify;
+}
+
+.kupteraz input[type=button]
+{
+	width: 80%;
+	font-size: 20px;
+	background-color: #060608;
+	border: none;
+	color: white;
+	height: 40px;
+	margin-top: 10px;
+}
+
+.kupteraz input[type=button]:hover
+{
+	background-color: #171719;
+	border: solid 1px white;
+}
+
+.option2:hover
+{
+	opacity: 0.5;
+}
+
+
+.map ul
+{
+	list-style-type: none;
+}
+
+.map ul > li
+{
+	padding-bottom: 10px;
+}
+
+.map ul > li:hover
+{
+	opacity: 0.5;
+}
+
+.last
+{
+	background-color: black;
+	color: #171719;
+	width: 100%;
+	text-align: center;
+}
+
+@media (max-width: 1199px)
+{
+	.logo
+	{
+		font-size: 30px;
+	}
+
+	.logotxt
+	{
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 575px)
+{
+
+	.logotxt
+	{
+		display: none;
+	}
+}
+@media (max-width: 991px)
+{
+	.borderc
+	{
+		border-top: 2px solid #171719;
+		border-right: none;
+		border-left: none;
+	}
+
+	.bordercf
+	{
+		border: none;
+	}
+
+	.borderb
+	{
+		border-bottom: 1px dashed white;
+	}
+
+	.marginb
+	{
+		margin-bottom: 10px;
+	}
+
+	.bold h3
+	{
+		font-weight: 900;
+	}
+
+	.map
+	{
+		padding-top: 50px;
+	}
+
+	body
+	{
+		overflow-y: visible;
+	}
+
+}
+@media (max-width: 767px)
+{
+	.imgv
+	{
+		display: none;
+	}
+
+	.imgmenu
+	{
+		
+	}
+}
