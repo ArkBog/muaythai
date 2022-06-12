@@ -1,5 +1,6 @@
 # MuayThai
 
+Check demo [GitHub Pages]([https://pages.github.com/](https://arkbog.github.io/muaythai/#))
 Wbesite for a muay thai school. Done for a training.
 
 ## Table of Contents
