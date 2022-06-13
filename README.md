@@ -6,9 +6,10 @@
 
 ## Table of Contents
 
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-* [General Information](#general-information)
+
 
 
 
