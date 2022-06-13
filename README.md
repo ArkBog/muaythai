@@ -1,14 +1,21 @@
-# MuayThai
+# MuayThai - website
 
-[Check demo](https://arkbog.github.io/muaythai/#)
+[Preview](https://arkbog.github.io/muaythai/#)
 
 
-Wbesite for a muay thai school. Done for a training.
 
 ## Table of Contents
 
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
+* [General Information](#general-information)
+
+
+
+## General Information
+
+Website for a muay thai school. Done for a training. The main goal of the project was to create a responsive website based on Bootstrap. The project was created in the form of "one page". The project uses the jQuerry library to made a "scroll to top button". The graphic design was created after analyzing the websites of the hypothetical competitors. The website has a side scroll bar turned off, which gives it a more interesting look. The use of a responsive table also deserves for attention.
+
 
 
 ## Technologies Used
@@ -21,4 +28,4 @@ Wbesite for a muay thai school. Done for a training.
 
 
 ## Project Status
-Project is: complete.
+Project is: in progress.
